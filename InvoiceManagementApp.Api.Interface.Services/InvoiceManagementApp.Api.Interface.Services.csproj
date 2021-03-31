@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.1.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\InvoiceManagementApp.Api.Data\InvoiceManagementApp.Api.Data.csproj" />
+    <ProjectReference Include="..\InvoiceManagementApp.Api.Model\InvoiceManagementApp.Api.Model.csproj" />
+  </ItemGroup>
+
+</Project>
