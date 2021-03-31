@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LWSWp35QkrCINvsCVRwsCUCVX9SRw40XBUBtSBYpD9w3DbTMZMogxeWvgAB1T5Gx4sp606zHOE7ne4qpLCMq0Q==",
+  "dgSpecHash": "+ONHaomv1sVQOY+FxvXMNMYM5vT8yFEdLEzHEiFFNuz7hQ3Vhmekx48n0rhIXEJlvCG+8/0LIpFoQM/FP9jBAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Interface.Services\\InvoiceManagementApp.Api.Interface.Services.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Interface.Services\\InvoiceManagementApp.Api.Interface.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.1.0\\microsoft.aspnetcore.authentication.abstractions.2.1.0.nupkg.sha512",

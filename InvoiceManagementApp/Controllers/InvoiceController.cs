@@ -41,9 +41,16 @@ namespace InvoiceManagementApp.Controllers
 
         [HttpPut("{id}")]
         [ProducesResponseType(typeof(IEnumerable<Invoice>), 200)]
-        public async Task<IActionResult> Update(int Id, Invoice model)
+        public async Task<IActionResult> Update(int id, Invoice model)
         {
-            return Ok(await _invoice.Update(Id, model));
+            return Ok(await _invoice.Update(id, model));
+        }
+
+        [HttpDelete("{id}")]
+        [ProducesResponseType(typeof(IEnumerable<Invoice>), 200)]
+        public  ActionResult Delete(int id)
+        {
+            return Ok(_invoice.Delete(id));
         }
     }
 }

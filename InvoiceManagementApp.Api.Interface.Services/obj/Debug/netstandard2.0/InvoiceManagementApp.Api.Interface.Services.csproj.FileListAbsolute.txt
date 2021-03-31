@@ -12,3 +12,17 @@ C:\Users\Administrator\source\repos\InvoiceManagementApp.Api.Interface.Services\
 C:\Users\Administrator\source\repos\InvoiceManagementApp.Api.Interface.Services\obj\Debug\netstandard2.0\InvoiceManagementApp.Api.Interface.Services.csproj.CopyComplete
 C:\Users\Administrator\source\repos\InvoiceManagementApp.Api.Interface.Services\obj\Debug\netstandard2.0\InvoiceManagementApp.Api.Interface.Services.dll
 C:\Users\Administrator\source\repos\InvoiceManagementApp.Api.Interface.Services\obj\Debug\netstandard2.0\InvoiceManagementApp.Api.Interface.Services.pdb
+C:\Users\Administrator\Source\Repos\InvoiceCRUDExprt\InvoiceManagementApp.Api.Interface.Services\bin\Debug\netstandard2.0\InvoiceManagementApp.Api.Interface.Services.deps.json
+C:\Users\Administrator\Source\Repos\InvoiceCRUDExprt\InvoiceManagementApp.Api.Interface.Services\bin\Debug\netstandard2.0\InvoiceManagementApp.Api.Interface.Services.dll
+C:\Users\Administrator\Source\Repos\InvoiceCRUDExprt\InvoiceManagementApp.Api.Interface.Services\bin\Debug\netstandard2.0\InvoiceManagementApp.Api.Interface.Services.pdb
+C:\Users\Administrator\Source\Repos\InvoiceCRUDExprt\InvoiceManagementApp.Api.Interface.Services\bin\Debug\netstandard2.0\InvoiceManagementApp.Api.Data.dll
+C:\Users\Administrator\Source\Repos\InvoiceCRUDExprt\InvoiceManagementApp.Api.Interface.Services\bin\Debug\netstandard2.0\InvoiceManagementApp.Api.Model.dll
+C:\Users\Administrator\Source\Repos\InvoiceCRUDExprt\InvoiceManagementApp.Api.Interface.Services\bin\Debug\netstandard2.0\InvoiceManagementApp.Api.Data.pdb
+C:\Users\Administrator\Source\Repos\InvoiceCRUDExprt\InvoiceManagementApp.Api.Interface.Services\bin\Debug\netstandard2.0\InvoiceManagementApp.Api.Model.pdb
+C:\Users\Administrator\Source\Repos\InvoiceCRUDExprt\InvoiceManagementApp.Api.Interface.Services\obj\Debug\netstandard2.0\InvoiceManagementApp.Api.Interface.Services.csprojAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\InvoiceCRUDExprt\InvoiceManagementApp.Api.Interface.Services\obj\Debug\netstandard2.0\InvoiceManagementApp.Api.Interface.Services.AssemblyInfoInputs.cache
+C:\Users\Administrator\Source\Repos\InvoiceCRUDExprt\InvoiceManagementApp.Api.Interface.Services\obj\Debug\netstandard2.0\InvoiceManagementApp.Api.Interface.Services.AssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\InvoiceCRUDExprt\InvoiceManagementApp.Api.Interface.Services\obj\Debug\netstandard2.0\InvoiceManagementApp.Api.Interface.Services.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\InvoiceCRUDExprt\InvoiceManagementApp.Api.Interface.Services\obj\Debug\netstandard2.0\InvoiceManagementApp.Api.Interface.Services.csproj.CopyComplete
+C:\Users\Administrator\Source\Repos\InvoiceCRUDExprt\InvoiceManagementApp.Api.Interface.Services\obj\Debug\netstandard2.0\InvoiceManagementApp.Api.Interface.Services.dll
+C:\Users\Administrator\Source\Repos\InvoiceCRUDExprt\InvoiceManagementApp.Api.Interface.Services\obj\Debug\netstandard2.0\InvoiceManagementApp.Api.Interface.Services.pdb

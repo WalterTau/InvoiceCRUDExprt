@@ -4908,11 +4908,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Data\\InvoiceManagementApp.Api.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Data\\InvoiceManagementApp.Api.Data.csproj",
       "projectName": "InvoiceManagementApp.Api.Data",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Data\\InvoiceManagementApp.Api.Data.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Data\\InvoiceManagementApp.Api.Data.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Data\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

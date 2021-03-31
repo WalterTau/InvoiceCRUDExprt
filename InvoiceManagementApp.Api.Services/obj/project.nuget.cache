@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tK7sfkxbkJ7+6q/Z80oSYw7Don3+Aspg5RZJ4ONit+ECZZ6CGPYxFVkc4xz//2kA8UCgC0lWglavk1hP0wc28A==",
+  "dgSpecHash": "GUxs3KxCXNjerk1ZlVMq913876psd5ms5pzE0z9NDMJEbqlN0JxhyyJnA35TprTiywCKc5EgxpAsO9bxzqa0oA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Services\\InvoiceManagementApp.Api.Services.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Services\\InvoiceManagementApp.Api.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\csvhelper\\26.1.0\\csvhelper.26.1.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",

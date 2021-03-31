@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tFTKtXGC8FFaLM0BQfNlxusLFTRVGN1iKqSKhnaX4Z7ahtl6+hOsL4bjj5OHYKVqeyi9bW6DplOrzM2kL8gItQ==",
+  "dgSpecHash": "AT8FFdSlesz8PbeMI/tXGFsjd3akC0oVF7IWh4dm5A13xi9ERFQ+C04/SfaEB4tDV0QI70mEN7IXL8GExpiLuA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Model\\InvoiceManagementApp.Api.Model.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Model\\InvoiceManagementApp.Api.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.1.0\\microsoft.aspnetcore.authentication.abstractions.2.1.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.1.0\\microsoft.aspnetcore.authentication.core.2.1.0.nupkg.sha512",

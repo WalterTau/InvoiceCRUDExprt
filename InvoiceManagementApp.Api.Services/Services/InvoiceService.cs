@@ -35,6 +35,28 @@ namespace InvoiceManagementApp.Api.Services
             return model;
         }
 
+        public Invoice Delete(int Id)
+        {
+            var model = new Invoice();
+            try
+            {
+                model = _dbcontext.Invoice.Find(Id);
+                if (model != null)
+                {
+                    var result = _dbcontext.Invoice.Remove(model);
+                    _dbcontext.SaveChanges();
+                    _dbcontext.Dispose();
+                }
+
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(string.Format("{0}-{1}", "Error ", ex.InnerException));
+            }
+            return model;
+           
+        }
+
         public async Task<Invoice> Get(int Id)
         {
             var invoice = await _dbcontext.Invoice.FindAsync(Id);

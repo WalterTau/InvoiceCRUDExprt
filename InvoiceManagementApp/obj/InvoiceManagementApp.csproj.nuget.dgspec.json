@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp\\InvoiceManagementApp.csproj": {}
+    "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp\\InvoiceManagementApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Data\\InvoiceManagementApp.Api.Data.csproj": {
+    "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Data\\InvoiceManagementApp.Api.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Data\\InvoiceManagementApp.Api.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Data\\InvoiceManagementApp.Api.Data.csproj",
         "projectName": "InvoiceManagementApp.Api.Data",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Data\\InvoiceManagementApp.Api.Data.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Data\\InvoiceManagementApp.Api.Data.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Data\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Interface.Services\\InvoiceManagementApp.Api.Interface.Services.csproj": {
+    "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Interface.Services\\InvoiceManagementApp.Api.Interface.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Interface.Services\\InvoiceManagementApp.Api.Interface.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Interface.Services\\InvoiceManagementApp.Api.Interface.Services.csproj",
         "projectName": "InvoiceManagementApp.Api.Interface.Services",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Interface.Services\\InvoiceManagementApp.Api.Interface.Services.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Interface.Services\\InvoiceManagementApp.Api.Interface.Services.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Interface.Services\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Interface.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -101,11 +101,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Data\\InvoiceManagementApp.Api.Data.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Data\\InvoiceManagementApp.Api.Data.csproj"
+              "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Data\\InvoiceManagementApp.Api.Data.csproj": {
+                "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Data\\InvoiceManagementApp.Api.Data.csproj"
               },
-              "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Model\\InvoiceManagementApp.Api.Model.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Model\\InvoiceManagementApp.Api.Model.csproj"
+              "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Model\\InvoiceManagementApp.Api.Model.csproj": {
+                "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Model\\InvoiceManagementApp.Api.Model.csproj"
               }
             }
           }
@@ -149,14 +149,14 @@
         }
       }
     },
-    "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Model\\InvoiceManagementApp.Api.Model.csproj": {
+    "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Model\\InvoiceManagementApp.Api.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Model\\InvoiceManagementApp.Api.Model.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Model\\InvoiceManagementApp.Api.Model.csproj",
         "projectName": "InvoiceManagementApp.Api.Model",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Model\\InvoiceManagementApp.Api.Model.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Model\\InvoiceManagementApp.Api.Model.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Model\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -214,14 +214,14 @@
         }
       }
     },
-    "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Services\\InvoiceManagementApp.Api.Services.csproj": {
+    "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Services\\InvoiceManagementApp.Api.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Services\\InvoiceManagementApp.Api.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Services\\InvoiceManagementApp.Api.Services.csproj",
         "projectName": "InvoiceManagementApp.Api.Services",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Services\\InvoiceManagementApp.Api.Services.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Services\\InvoiceManagementApp.Api.Services.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Services\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -238,11 +238,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Data\\InvoiceManagementApp.Api.Data.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Data\\InvoiceManagementApp.Api.Data.csproj"
+              "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Data\\InvoiceManagementApp.Api.Data.csproj": {
+                "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Data\\InvoiceManagementApp.Api.Data.csproj"
               },
-              "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Interface.Services\\InvoiceManagementApp.Api.Interface.Services.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Interface.Services\\InvoiceManagementApp.Api.Interface.Services.csproj"
+              "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Interface.Services\\InvoiceManagementApp.Api.Interface.Services.csproj": {
+                "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Interface.Services\\InvoiceManagementApp.Api.Interface.Services.csproj"
               }
             }
           }
@@ -290,14 +290,14 @@
         }
       }
     },
-    "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp\\InvoiceManagementApp.csproj": {
+    "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp\\InvoiceManagementApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp\\InvoiceManagementApp.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp\\InvoiceManagementApp.csproj",
         "projectName": "InvoiceManagementApp",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp\\InvoiceManagementApp.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp\\InvoiceManagementApp.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -314,14 +314,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Data\\InvoiceManagementApp.Api.Data.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Data\\InvoiceManagementApp.Api.Data.csproj"
+              "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Data\\InvoiceManagementApp.Api.Data.csproj": {
+                "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Data\\InvoiceManagementApp.Api.Data.csproj"
               },
-              "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Interface.Services\\InvoiceManagementApp.Api.Interface.Services.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Interface.Services\\InvoiceManagementApp.Api.Interface.Services.csproj"
+              "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Interface.Services\\InvoiceManagementApp.Api.Interface.Services.csproj": {
+                "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Interface.Services\\InvoiceManagementApp.Api.Interface.Services.csproj"
               },
-              "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Services\\InvoiceManagementApp.Api.Services.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\source\\repos\\InvoiceManagementApp.Api.Services\\InvoiceManagementApp.Api.Services.csproj"
+              "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Services\\InvoiceManagementApp.Api.Services.csproj": {
+                "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\InvoiceCRUDExprt\\InvoiceManagementApp.Api.Services\\InvoiceManagementApp.Api.Services.csproj"
               }
             }
           }

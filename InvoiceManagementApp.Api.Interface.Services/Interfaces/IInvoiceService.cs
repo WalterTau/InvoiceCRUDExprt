@@ -12,6 +12,7 @@ namespace InvoiceManagementApp.Api.Interface.Services
         Task<int> Update(int Id, Invoice model);
         Invoice Add(Invoice model);
         Task<Invoice> Get(int Id);
+        Invoice Delete(int Id);
 
     }
 }
